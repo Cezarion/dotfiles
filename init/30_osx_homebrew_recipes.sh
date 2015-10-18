@@ -26,6 +26,13 @@ recipes=(
   the_silver_searcher
   tree
   wget
+  percona-server
+  mcrypt
+  php56
+  php56-mcrypt
+  php56-opcache
+  php56-acpu
+  php56-xdebug
 )
 
 brew_install_recipes
