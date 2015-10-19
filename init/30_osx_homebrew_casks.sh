@@ -23,7 +23,7 @@ brew cask info this-is-somewhat-annoying 2>/dev/null
 casks=(
   # Applications
   1password
-  sublime-text-3
+  sublime-text3
   bettertouchtool
   chromium
   forklift
