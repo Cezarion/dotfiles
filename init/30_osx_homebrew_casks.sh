@@ -27,6 +27,7 @@ casks=(
   bettertouchtool
   chromium
   forklift
+  sequel-pro
   dropbox
   firefox
   google-chrome
