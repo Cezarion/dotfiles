@@ -36,6 +36,7 @@ recipes=(
   tree
   wget
   percona-server
+  dnsmasq
   mcrypt
   php56
   php56-mcrypt
